@@ -3,7 +3,7 @@
 <head>
 <style>
 body {
-    background-image: url("https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwi8z7y8pu3fAhULi3AKHcRkBfoQjRx6BAgBEAU&url=https%3A%2F%2Fwww.facebook.com%2Fpages%2Fcategory%2FHindu-Temple%2FSri-Swayambhu-Nagaraja-Swamy-Temple-497555247053041%2F&psig=AOvVaw3ufzu63FZ4TRx0f0oxzdJW&ust=1547556066558594");
+    background-image: url("https://www.flickr.com/photos/ramnaganat/6217061903");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: Center;
