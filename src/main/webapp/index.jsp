@@ -3,7 +3,7 @@
 <head>
 <style>
 body {
-    background-image: url("https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiRko3ope3fAhXIu48KHUoUCc4QjRx6BAgBEAU&url=http%3A%2F%2Fwww.sriswayambhunagaraja.org.in%2Fhome.html&psig=AOvVaw3ufzu63FZ4TRx0f0oxzdJW&ust=1547556066558594");
+    background-image: url("https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwi8z7y8pu3fAhULi3AKHcRkBfoQjRx6BAgBEAU&url=https%3A%2F%2Fwww.facebook.com%2Fpages%2Fcategory%2FHindu-Temple%2FSri-Swayambhu-Nagaraja-Swamy-Temple-497555247053041%2F&psig=AOvVaw3ufzu63FZ4TRx0f0oxzdJW&ust=1547556066558594");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: Center;
