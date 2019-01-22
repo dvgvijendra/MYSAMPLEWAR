@@ -17,7 +17,7 @@ p.one {
     padding-right: 30px;
     padding-bottom: 50px;
     padding-left: 80px;
-    background-color: blue;
+    background-color: pink;
     color: brown;
     }
 p.one {
